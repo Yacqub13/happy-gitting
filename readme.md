@@ -1,6 +1,6 @@
 # Happy gitting everyone!
 
-This is markdown readme file.
+Welcome everyone to git!!!
 
 You can add images here as in any other markdown document:
 
@@ -9,7 +9,8 @@ You can add images here as in any other markdown document:
 * fork this repo (use the GH fork button)
 * clone the result to your computer  
   `git clone <url>`
-* make some edits  
+* make some edits!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+Yessirrr
   you can use any text editor
 * commit your edits  
   `git commit -am "<describe what did your do>"`
